@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #3366ff; 
+  color: black; 
+  border: 2px solid white;
+}
+
+.button1:hover {
+  background-color: white;
+  color: black;
+}
+
+
+</style>
+  </head>
+  
+  <body style="background-image: url('http://cdn29.us1.fansshare.com/images/girls/hot-girl-hd-wallpaper-in-and-widescreen-resolutions-1448587018.jpg');">
+    <div style="text-align: center">
+      <div style="display: inline-block">
+        <img src="https://thumb-p5.xhcdn.com/a/ucOYkd-Vd2Neb6yi8NoBwA/000/274/594/515_1000.gif" alt="Avatar" style="width:200px;  border-radius: 10%; border: 2px solid black;">
+
+        <h1 style="color:white; text-shadow: 2px 2px #FF0000;">You must be 18!</h1>
+       <button class="button button1">Continue</button>
+      </div>
+      
+    </div>
+    
+    
+    
+  </body>
+  
+  
+  
+</html>
